@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <title>Insurance dashboard</title>
+    <style>
+        .highlight {
+            background-color: green;
+        }
+        .active{
+            color:green;
+            font-weight:bold;
+        }
+    </style>
+    <body>
+        <h1 id = "pagetitle">Insurance dashboard</h1>
+        <h2>Customers</h2>
+        <ul id = "cuslist">
+            <li  class = "customer">Nidhi - health</li>
+            <li  class = "customer">Nija - vehicle</li>
+            <li  class = "customer">sanvi - life</li>
+        </ul>
+        <h2>Policies</h2>
+        <p class = "policy">Health</p>
+        <p class = "policy">Vehicle</p>
+        <p class = "policy">Life</p>
+
+        <form id = "enquiryform">
+            <input type = "text" name = 'customerName' placeholder="Customer"/>
+            <input type="email" name = "email" placeholder=" Email"/>
+            <button type = "submit">Submit</button>
+        </form>
+
+        <img src = "./images/health-insurance-premium-rising.png" alt = "Health Insurance" id = "healthimg" height = "200"  />
+        <img src = "./images/health-insurance-premium-rising.png" alt = "Life Insurance" id = "lifeimg" height = "200" /><br>
+        <a href="#">View Policy</a><br>
+        <a href="#">Contact Agent</a>
+        <script src = "script.js"></script>
+    </body>
+</html>

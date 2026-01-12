@@ -1,0 +1,107 @@
+<!-- Event Bubbling -->
+ <!--
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>Event Bubbling</title>
+    </head>
+    <body>
+        <div id = 'payment-section'>
+            <button id = 'btn'>Pay Premium</button>
+        </div>
+        <script>
+            const a = document.getElementById('payment-section');
+            const b = document.getElementById('btn');
+            a.addEventListener('click',() => {
+                console.log("Payment section clicked");
+            })
+            b.addEventListener('click',() => {
+                console.log("Button clicked");
+            })
+        </script>
+    </body>
+</html>
+-->
+
+
+<!-- Event Capturing -->
+ <!--
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Event Capturing
+        </title>
+    </head>
+    <body>
+        <div id = "container">
+            <button id = "btn">View Policy</button>
+            <script>
+                const a = document.getElementById('container');
+                const b = document.getElementById('btn');
+                a.addEventListener('click',() => {
+                    console.log("Container clicked");
+                },true);
+                b.addEventListener('click',() => {
+                    console.log("Button clicked");
+                },true);
+            </script>
+        </div>
+    </body>
+</html>
+-->
+
+
+<!--stop propagation
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            stop propagation
+        </title>
+    </head>
+    <body>
+        <div class = "policy-card">
+            <button id = "btn">Delete</button>
+        </div>
+        <script>
+            const a = document.querySelector('.policy-card');
+            const b = document.getElementById('btn');
+            a.addEventListener('click',() =>{
+                console.log("Policy card clicked");
+            })
+            b.addEventListener('click',(e) => {
+                e.stopPropagation();
+                console.log("Button clicked");
+            });
+        </script>
+    </body>
+</html>
+-->
+
+<!--All together-->
+<!--
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <div class="claim-row">
+        <button class="approve-btn">Approve</button>
+        </div>
+    <script>
+        const a = document.querySelector(".claim-row");
+        const b = document.querySelector(".approve-btn");
+
+        a.addEventListener("click", () => {
+        console.log("Opening Claim Details");
+        });
+
+        b.addEventListener("click", (event) => {
+        event.stopPropagation();  
+        console.log("Claim Approved");
+        });
+        </script>
+            </body>
+    </html>
+-->

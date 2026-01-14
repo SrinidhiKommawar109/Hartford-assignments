@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTTP Requests</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: center;
+            background-color: #ddd;
+        }
+      #container {
+            display: flex;
+            justify-content: center;   
+            margin-bottom: 40px;
+            gap: 40px;                 
+            margin-top: 40px;
+          } 
+
+        button {
+            padding: 8px 15px;
+            cursor: pointer;
+            height: 40px;
+            font-weight: bold;
+        }
+        #get{
+            background-color: green;
+        }
+        #post{
+            background-color: #2196F3;
+        }
+        #put{
+            background-color: #FFC107;
+        }
+        #patch{
+            background-color: #FF9800;
+        }
+        #delete{
+            background-color: #F44336;
+        }
+        table{
+            margin: 0 auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+        th , td{
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        th{
+            background-color: aliceblue;
+        }
+        #inputs{
+            margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+        input{
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+            height: 25px;
+            
+        }
+    </style>
+</head>
+<body>
+
+<h2><u>HTTP Requests On Products API</u></h2>
+<div id = "inputs">
+    <input id = "productId" type = "number" placeholder="enter product ID">
+    <input id = "title" type = "text" placeholder="enter title">
+    <input id = "category" type = "text" placeholder="enter category">
+    <input id = "price" type = "number" placeholder="enter price">
+    <input id = "rating" type = "number" placeholder="enter rating">
+</div>
+<div id = "container">
+<button id = "get" onclick="getProducts()">Get(Read product)</button>
+<button id = "post"onclick="addProduct()">POST (Create Product)</button>
+<button id = "put" onclick="updateProduct()">PUT (Update Product)</button>
+<button id = "patch" onclick="patchProduct()">PATCH (Partial Update)</button>
+<button id = "delete" onclick="deleteProduct()">DELETE (Delete Product)</button>
+</div>
+<h3>Response</h3>
+<table id = "products_table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Rating</th>
+        </tr>
+    </thead>
+    <tbody id = "table_body"></tbody>
+</table>
+
+
+<script src="main.js"></script>
+</body>
+</html>

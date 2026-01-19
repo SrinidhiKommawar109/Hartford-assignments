@@ -1,0 +1,79 @@
+.footer {
+  background-color: #f7f4f1;
+  padding: 40px 60px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+.footer-top {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+.footer-col h4 {
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+.footer-col a {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #333;
+  cursor: pointer;
+}
+.account p {
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.btn {
+  width: 100%;
+  background-color: #7a003c;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+hr {
+  margin: 30px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.brand img {
+  height: 30px;
+}
+.legal {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  font-size: 13px;
+}
+.legal a {
+  cursor: pointer;
+}
+.legal a:hover {
+  text-decoration: underline;
+}
+.social span {
+  font-size: 18px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.copyright {
+  text-align: right;
+  font-size: 13px;
+  margin-top: 10px;
+}

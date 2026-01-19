@@ -1,0 +1,11 @@
+.description{
+    text-align: center;
+    margin: 50px 0px;
+    color: brown;
+}
+
+.description p {
+  font-size: 16px;
+  color: white;
+  line-height: 1.6;
+}

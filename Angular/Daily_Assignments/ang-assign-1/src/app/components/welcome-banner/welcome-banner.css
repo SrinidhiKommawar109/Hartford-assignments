@@ -1,0 +1,10 @@
+.banner {
+  background-color: #e6f2ff;   /* light matching color */
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+.banner h1 {
+  margin: 0;
+  color: #003366;
+}

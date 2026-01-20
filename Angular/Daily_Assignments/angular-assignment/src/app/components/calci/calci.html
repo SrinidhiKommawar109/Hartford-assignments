@@ -1,0 +1,15 @@
+<h2>Services - Calculator Example</h2>
+<div class = "calculator">
+    <h2>Calculator</h2>
+    <input type="number" [(ngModel)]="n1" placeholder="Number 1">
+    <input type="number" [(ngModel)]="n2" placeholder="Number 2">
+
+    <br><br>
+
+    <button (click)="add()">Add</button>
+    <button (click)="sub()">Sub</button>
+    <button (click)="mul()">Mul</button>
+    <button (click)="div()">Div</button>
+
+    <h3>Result: {{ result }}</h3>
+</div>

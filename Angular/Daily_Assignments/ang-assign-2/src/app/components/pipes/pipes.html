@@ -1,0 +1,28 @@
+
+<div class="container">
+    <h2>Built-in Pipes</h2>
+    <p>Uppercase : {{name | uppercase}}</p>
+    <p>Lowercase : {{name | lowercase}}</p>
+    <p>Titlecase : {{name | titlecase}}</p>
+
+    <hr />
+
+    <p> Date : {{ today | date:'shortDate' }}</p>
+    <p> Time : {{ today | date:'shortTime' }}</p>
+    <p> Date : {{ today | date:'fullDate' }}</p>
+
+    <hr />
+
+    <p> Currency : {{ price | currency:'INR' }}</p>
+    <p> Number : {{ value | number:'2.2-2' }}</p>
+
+    <hr />
+
+    <p> Percent: {{ value | percent }}</p>
+    <p>JSON Pipe</p>
+    <pre>{{ student | json}}</pre>
+</div>
+<div class="container">
+    <h2>Custom Pipes</h2>
+    <p>{{'Angular custom pipes are easy' | shorten:10}}</p>
+</div>

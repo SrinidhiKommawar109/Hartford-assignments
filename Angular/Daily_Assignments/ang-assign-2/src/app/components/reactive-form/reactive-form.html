@@ -1,0 +1,46 @@
+<h1>Reactive Forms</h1>
+<ul>
+    <li>Name : {{ loginForm.value.name }}</li>
+    <li>Email : {{ loginForm.value.email }}</li>
+    <li>Password : {{ loginForm.value.password }}</li>
+</ul>
+<form [formGroup] = "loginForm" (ngSubmit) = "handleProfile()" method = "post">
+    <input type="text" formControlName="name" placeholder="enter name">
+    @if(name?.hasError('required') && name?.touched){
+  <span class="error">Name is required</span>
+    }
+    @if(name?.hasError('minlength') && name?.touched){
+    <span class="error">Name must be at least 3 characters</span>
+    }
+    @if(name?.hasError('maxlength') && name?.touched){
+    <span class="error">Name cannot exceed 20 characters</span>
+    }
+    <br>
+    <input type="text" formControlName="email" placeholder="enter email">
+    @if(email?.hasError('required') && email?.touched){
+  <span class="error">Email is required</span>
+    }
+    @if(email?.hasError('email') && email?.touched){
+    <span class="error">Invalid email format</span>
+    }
+    @if(email?.hasError('maxlength') && email?.touched){
+    <span class="error">Email cannot exceed 40 characters</span>
+    }
+    <br>
+    <input type="password" formControlName ="password" placeholder=" enter password">
+    @if(password?.hasError('required') && password?.touched){
+  <span class="error">Password is required</span>
+    }
+    @if(password?.hasError('minlength') && password?.touched){
+    <span class="error">Password must be at least 8 characters</span>
+    }
+    @if(password?.hasError('maxlength') && password?.touched){
+    <span class="error">Password cannot exceed 16 characters</span>
+    }
+
+    <br>
+    <button type="submit" [disabled]="loginForm.invalid">Submit</button>
+
+    <br>
+    <button type = 'reset'>Reset</button>
+</form>

@@ -7,6 +7,7 @@ import { CommonModule } from '@angular/common';
 import { Pipes } from './components/pipes/pipes';
 import { ShortenPipe } from './components/custom_pipes/shorten-pipe';
 import { ReactiveForm } from './components/reactive-form/reactive-form';
+import { TodoList } from './components/todolist/todolist';
 
 @Component({
   selector: 'app-root',
@@ -19,7 +20,8 @@ import { ReactiveForm } from './components/reactive-form/reactive-form';
     CommonModule,
     Pipes,
     ShortenPipe,
-    ReactiveForm
+    ReactiveForm,
+    TodoList
   ],
   templateUrl: './app.html',
   styleUrl: './app.css'

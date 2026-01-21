@@ -1,0 +1,67 @@
+<h2>Todo List</h2>
+
+<div class="load-container">
+  <button class="load-btn" (click)="getTodoData()">Load Todos</button>
+</div>
+
+
+<!-- ADD + EDIT CONTAINER -->
+<div class="form-container">
+  <!-- ADD -->
+  <div class="box add-box">
+    <h3>Add Todo</h3>
+
+    <input
+      type="text"
+      [(ngModel)]="newTodoTitle"
+      placeholder="Enter new todo"
+    />
+
+    <button class="add-btn" (click)="addTodo()">Add</button>
+  </div>
+
+  <!-- EDIT -->
+  @if (selectedTodo) {
+    <div class="box edit-box">
+      <h3>Edit Todo</h3>
+
+      <input type="text" [(ngModel)]="selectedTodo.title" />
+
+      <label class="checkbox">
+        <input type="checkbox" [(ngModel)]="selectedTodo.completed" />
+        Completed
+      </label>
+
+      <button class="edit-btn" (click)="updateTodo()">Update</button>
+    </div>
+  }
+</div>
+
+<!-- TABLE -->
+@if (todos.length > 0) {
+  <table>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Status</th>
+      <th>Action</th>
+    </tr>
+
+    @for (todo of todos; track todo.id) {
+      <tr>
+        <td>{{ todo.id }}</td>
+        <td>{{ todo.title }}</td>
+        <td>{{ todo.completed ? 'Completed' : 'Pending' }}</td>
+        <td>
+          <button class="show-btn" (click)="showTodo(todo)">Show</button>
+          <button class="edit-btn" (click)="editTodo(todo)">Edit</button>
+          <button class="delete-btn" (click)="deleteTodo(todo.id)">
+            Delete
+          </button>
+        </td>
+      </tr>
+    }
+  </table>
+} @else {
+  <p>No todos available</p>
+}

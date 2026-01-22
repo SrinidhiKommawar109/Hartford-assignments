@@ -1,0 +1,20 @@
+.parent-box {
+  border: 2px solid #2563eb;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #eff6ff;
+  max-width: 420px;
+}
+
+h2 { color: #2563eb; }
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+p { margin-top: 10px; }
+b { color: #16a34a; }

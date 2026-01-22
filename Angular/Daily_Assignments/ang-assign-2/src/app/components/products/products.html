@@ -1,0 +1,14 @@
+<h1>Products List</h1>
+<ul class ="product-ul">
+  @for(product of productsData(); track product.id) {
+    <li>
+      Name : {{ product.title }}
+    </li>
+    <li>
+      Price : {{ product.price }}
+    </li>
+    <li>
+      Category : {{ product.category }}
+    </li>
+  }
+</ul>

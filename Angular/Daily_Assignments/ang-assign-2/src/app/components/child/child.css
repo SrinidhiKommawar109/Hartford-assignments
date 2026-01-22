@@ -1,0 +1,17 @@
+.child-box {
+  border: 2px dashed #7c3aed;
+  padding: 14px;
+  border-radius: 8px;
+  background-color: #f5f3ff;
+  margin-top: 15px;
+}
+
+h3 { color: #7c3aed; }
+
+input, select {
+  width: 100%;
+  padding: 7px;
+  margin-top: 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}

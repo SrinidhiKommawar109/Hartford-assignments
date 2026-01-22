@@ -1,0 +1,23 @@
+<div class="child-box">
+  <h3>Child Component</h3>
+
+  <!-- Display parent message -->
+  <p>Message from Parent: <b>{{ parentMessage }}</b></p>
+
+  <!-- Send message to parent -->
+  <input
+    type="text"
+    placeholder="Type message for parent"
+    (input)="sendToParent($event)"
+  />
+
+  <!-- Rating select -->
+  <p>Select Rating:</p>
+  <select (change)="onRatingChange($event)">
+    <option value="1">1 ⭐</option>
+    <option value="2">2 ⭐⭐</option>
+    <option value="3">3 ⭐⭐⭐</option>
+    <option value="4">4 ⭐⭐⭐⭐</option>
+    <option value="5">5 ⭐⭐⭐⭐⭐</option>
+  </select>
+</div>

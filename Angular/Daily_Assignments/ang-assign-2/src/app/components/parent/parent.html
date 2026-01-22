@@ -1,0 +1,24 @@
+<div class="parent-box">
+  <h2>Parent Component</h2>
+
+  <!-- Parent input -->
+  <input
+    type="text"
+    placeholder="Type message for child"
+    (input)="updateMessageToChild($event)"
+  />
+
+  <p>
+    Message from Child: <b>{{ messageFromChild }}</b>
+  </p>
+
+  <!-- Display rating from child -->
+  <p>Rating from Child: <b>{{ childRating }} ⭐</b></p>
+
+  <!-- Child Component -->
+  <app-child
+    [parentMessage]="messageToChild"
+    (childMessage)="receiveFromChild($event)"
+    (ratingChanged)="updateRating($event)"
+  ></app-child>
+</div>

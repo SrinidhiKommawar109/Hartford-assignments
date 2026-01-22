@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.product-ul {
+  list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.product-ul li {
+  padding: 8px 12px;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 15px;
+}
+
+.product-ul li:nth-child(3n) {
+  margin-bottom: 15px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 12px;
+}
+
+

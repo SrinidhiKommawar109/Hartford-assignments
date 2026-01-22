@@ -5,6 +5,8 @@ import { Injectable } from '@angular/core';
 })
 export class CalciService {
 
+  constructor() { console.log('Calci Service is called'); }
+
   add(a: number, b: number): number {
     return a + b;
   }

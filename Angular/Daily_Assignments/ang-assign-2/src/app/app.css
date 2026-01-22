@@ -227,3 +227,10 @@ app-reactive-form {
   background-color: #8b4513;
   color: white;
 }
+.page-center {
+  min-height: 50vh;          /* full screen height */
+  display: flex;
+  justify-content: center;    /* horizontal center */
+  align-items: center;        /* vertical center */
+  background-color: #f8fafc;
+}

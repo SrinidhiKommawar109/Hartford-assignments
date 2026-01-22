@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
 import { EmployeeComponent } from './components/employee/employee';
 import { Databinding } from './components/databinding/databinding';
 import { Crud } from './components/crud/crud';
@@ -8,6 +8,8 @@ import { Pipes } from './components/pipes/pipes';
 import { ShortenPipe } from './components/custom_pipes/shorten-pipe';
 import { ReactiveForm } from './components/reactive-form/reactive-form';
 import { TodoList } from './components/todolist/todolist';
+import { ProductsComponent } from './components/products/products';
+import { ParentComponent } from './components/parent/parent';
 
 @Component({
   selector: 'app-root',
@@ -21,9 +23,13 @@ import { TodoList } from './components/todolist/todolist';
     Pipes,
     ShortenPipe,
     ReactiveForm,
-    TodoList
+    TodoList,
+    ProductsComponent,
+    ParentComponent
   ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
-export class App {}
+export class App {
+
+}

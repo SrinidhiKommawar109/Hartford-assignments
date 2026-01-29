@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day-1 - .net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7230E385-CAF2-4054-88DA-01288F3F5CDD}|Day-1\\Day-1.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\day-1 - .net\\day-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7230E385-CAF2-4054-88DA-01288F3F5CDD}|Day-1\\Day-1.csproj|solutionrelative:day-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day-1 - .net\\Day-1\\Program.cs",
+              "RelativeDocumentMoniker": "Day-1\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day-1 - .net\\Day-1\\Program.cs*",
+              "RelativeToolTip": "Day-1\\Program.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAWwG0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T11:20:10.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

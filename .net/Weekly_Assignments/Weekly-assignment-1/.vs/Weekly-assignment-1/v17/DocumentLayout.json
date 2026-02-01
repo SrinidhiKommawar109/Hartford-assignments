@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Weekly-assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988F7CC1-F67C-4252-8BA4-A5F620703ADA}|Weekly-assignment-1\\Weekly-assignment-1.csproj|e:\\hartford_assignments\\.net\\weekly_assignments\\weekly-assignment-1\\weekly-assignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988F7CC1-F67C-4252-8BA4-A5F620703ADA}|Weekly-assignment-1\\Weekly-assignment-1.csproj|solutionrelative:weekly-assignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Weekly-assignment-1\\Weekly-assignment-1\\Program.cs",
+              "RelativeDocumentMoniker": "Weekly-assignment-1\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Weekly-assignment-1\\Weekly-assignment-1\\Program.cs",
+              "RelativeToolTip": "Weekly-assignment-1\\Program.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAIYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:45:10.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

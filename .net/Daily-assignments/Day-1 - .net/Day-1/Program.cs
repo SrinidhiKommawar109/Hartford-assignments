@@ -6,7 +6,7 @@ class Arthimetic_operators
 {
     public static void Basic(int a, int b)
     {
-        int sum = a + b;
+        Int32 sum = a + b;
         int diff = a - b;
         int mul = a * b;
         int div = a / b;

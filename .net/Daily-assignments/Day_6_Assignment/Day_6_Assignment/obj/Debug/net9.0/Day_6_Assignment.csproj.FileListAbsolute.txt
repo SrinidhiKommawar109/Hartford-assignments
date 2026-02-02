@@ -1,0 +1,15 @@
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\bin\Debug\net9.0\Day_6_Assignment.exe
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\bin\Debug\net9.0\Day_6_Assignment.deps.json
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\bin\Debug\net9.0\Day_6_Assignment.runtimeconfig.json
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\bin\Debug\net9.0\Day_6_Assignment.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\bin\Debug\net9.0\Day_6_Assignment.pdb
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.AssemblyInfoInputs.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.AssemblyInfo.cs
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.csproj.CoreCompileInputs.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.sourcelink.json
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\refint\Day_6_Assignment.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.pdb
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\Day_6_Assignment.genruntimeconfig.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\Day_6_Assignment\Day_6_Assignment\obj\Debug\net9.0\ref\Day_6_Assignment.dll

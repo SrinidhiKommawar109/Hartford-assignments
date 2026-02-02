@@ -10,6 +10,8 @@ import { ReactiveForm } from './components/reactive-form/reactive-form';
 import { TodoList } from './components/todolist/todolist';
 import { ProductsComponent } from './components/products/products';
 import { ParentComponent } from './components/parent/parent';
+import { StatuscolorPipe } from './statuscolor-pipe';
+import { OrderComponent } from './order/order';
 
 @Component({
   selector: 'app-root',
@@ -22,10 +24,15 @@ import { ParentComponent } from './components/parent/parent';
     CommonModule,
     Pipes,
     ShortenPipe,
+    StatuscolorPipe,
     ReactiveForm,
     TodoList,
     ProductsComponent,
-    ParentComponent
+    ParentComponent,
+    OrderComponent,
+    StatuscolorPipe
+
+
   ],
   templateUrl: './app.html',
   styleUrl: './app.css'

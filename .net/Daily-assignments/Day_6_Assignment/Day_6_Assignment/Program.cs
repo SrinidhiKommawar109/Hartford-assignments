@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace Day_6_Assignment
@@ -38,6 +39,7 @@ namespace Day_6_Assignment
             Console.WriteLine("3. Exercise-3");
             Console.WriteLine("4. Exercise-4");
             Console.WriteLine("5. Exercise-5");
+            Console.WriteLine("6. Exercise-6");
             Console.Write("Enter your choice: ");
 
             int choice = int.Parse(Console.ReadLine());
@@ -143,7 +145,84 @@ namespace Day_6_Assignment
                 Console.WriteLine($"{i:X}");
                 Console.WriteLine($"{i:x}");
             }
-        }
-    }
+            else if (choice == 6)
+            {
+                //DateTime now = DateTime.Now;
+                //Console.WriteLine(now);
+                //DateTime today = DateTime.Today;
+                //Console.WriteLine(today);
+                //DateTime utcnow = DateTime.UtcNow;
+                //Console.WriteLine(utcnow);
 
+                //CREATION OF DATE USING CONSTRUCTOR
+
+                //DateTime d1 = new DateTime(2026, 2, 3);
+                //DateTime d2 = new DateTime(2026, 2, 3, 3, 21, 21);
+                //Console.WriteLine(d1);
+                //Console.WriteLine(d2);
+
+                //CREATION OF DATE USING PARSE
+
+                //DateTime d3 = DateTime.Parse("03-02-2026");
+                //DateTime d4 = DateTime.Parse("2026-02-03");
+                //Console.WriteLine(d3);
+                //Console.WriteLine(d4);
+
+                //TryParse
+
+                //DateTime d5;
+                //bool isValid = DateTime.TryParse("03/02/2026", out d5);
+                //Console.WriteLine(isValid);
+
+                //FORMATTING DATE
+
+                //DateTime now = DateTime.Now;
+                //Console.WriteLine(now.ToString("dd/MM/yyyy"));
+                //Console.WriteLine(now.ToString("MM/dd/yyyy"));
+                //Console.WriteLine(now.ToString("dddd"));
+                //Console.WriteLine(now.ToString("dd MM yyyy"));
+
+                //Date Arithmetic
+
+                //DateTime today = DateTime.Today;
+                //DateTime nextMonth = today.AddMonths(2);
+                //Console.WriteLine(nextMonth);
+                //DateTime nextDay = today.AddDays(2);
+                //Console.WriteLine(nextDay);
+                //DateTime nextYear = today.AddYears(2);
+                //Console.WriteLine(nextYear);
+
+                //DateTime past = today.AddYears(-2);
+                //Console.WriteLine(past);
+
+                //Difference Between Two Dates(TimeSpan)
+
+                //DateTime d1 = new DateTime(2026, 2, 3);
+                //DateTime d2 = new DateTime(2026, 2, 4);
+                //TimeSpan diff = d2 - d1;
+                //Console.WriteLine(diff.Days);
+                //Console.WriteLine(diff.TotalDays);
+
+                //Extracting Parts of a Date
+
+                //DateTime now = DateTime.Now;
+                //Console.WriteLine(now.year);
+                //Console.WriteLine(now.Month);
+                //Console.WriteLine(now.Day);
+                //Console.WriteLine(now.DayOfWeek);
+
+                //Day of the Week
+
+                //DateTime dt = new DateTime(2026, 2, 3);
+
+                //bool isThursday = dt.DayOfWeek == DayOfWeek.Thursday; // false
+                //bool isFriday = dt.DayOfWeek == DayOfWeek.Friday;  // true
+
+                //Console.WriteLine(isThursday);
+                //Console.WriteLine(isFriday);
+
+            }
+        }
+
+    }
 }

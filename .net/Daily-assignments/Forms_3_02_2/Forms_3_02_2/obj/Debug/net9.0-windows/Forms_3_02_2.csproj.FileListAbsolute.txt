@@ -1,0 +1,17 @@
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.Form1.resources
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.csproj.GenerateResource.cache
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.AssemblyInfoInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.AssemblyInfo.cs
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.csproj.CoreCompileInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.sourcelink.json
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\bin\Debug\net9.0-windows\Forms_3_02_2.exe
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\bin\Debug\net9.0-windows\Forms_3_02_2.deps.json
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\bin\Debug\net9.0-windows\Forms_3_02_2.runtimeconfig.json
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\bin\Debug\net9.0-windows\Forms_3_02_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\bin\Debug\net9.0-windows\Forms_3_02_2.pdb
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\refint\Forms_3_02_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.pdb
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\Forms_3_02_2.genruntimeconfig.cache
+E:\Hartford_assignments\.net\Daily-assignments\Forms_3_02_2\Forms_3_02_2\obj\Debug\net9.0-windows\ref\Forms_3_02_2.dll

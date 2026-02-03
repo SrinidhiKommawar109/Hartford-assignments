@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Day_6_Assignment\\",
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day_6_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{107CD06D-5D09-4A66-9919-151E7602A53B}|Day_6_Assignment\\Day_6_Assignment.csproj|e:\\hartford_assignments\\.net\\weekly_assignments\\day_6_assignment\\day_6_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{107CD06D-5D09-4A66-9919-151E7602A53B}|Day_6_Assignment\\Day_6_Assignment.csproj|solutionrelative:day_6_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\Day_6_Assignment\\Day_6_Assignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day_6_Assignment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Day_6_Assignment\\Day_6_Assignment\\Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day_6_Assignment\\Day_6_Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Day_6_Assignment\\Program.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\Day_6_Assignment\\Day_6_Assignment\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Day_6_Assignment\\Day_6_Assignment\\Program.cs",
               "RelativeToolTip": "Day_6_Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwIoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:14:36.472Z",
+              "WhenOpened": "2026-02-03T09:37:30.218Z",
               "EditorCaption": ""
             }
           ]

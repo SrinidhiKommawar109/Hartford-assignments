@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InsuranceConsoleApp",
+    "\\InsuranceLibrary",
+    "\\InsuranceLibrary\\Models",
+    "\\InsuranceLibrary\\Services"
+  ],
+  "SelectedNode": "\\InsuranceLibrary\\Services\\PolicyService.cs",
+  "PreviewInSolutionExplorer": false
+}

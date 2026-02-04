@@ -1,0 +1,12 @@
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.deps.json
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.dll
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.pdb
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfoInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfo.cs
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.csproj.CoreCompileInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.sourcelink.json
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.dll
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\refint\InsuranceLibrary.dll
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.pdb
+E:\Hartford_assignments\.net\Daily-assignments\InsuranceSolution\InsuranceLibrary\obj\Debug\net9.0\ref\InsuranceLibrary.dll

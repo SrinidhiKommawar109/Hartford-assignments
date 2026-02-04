@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\oops_2\\oops_2\\salartthendeptwisecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|solutionrelative:oops_2\\salartthendeptwisecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\oops_2\\oops_2\\deptwisecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|solutionrelative:oops_2\\deptwisecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\oops_2\\oops_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|solutionrelative:oops_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\oops_2\\oops_2\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0206EA30-B273-402D-99D6-4001FCA61508}|OOPS_2\\OOPS_2.csproj|solutionrelative:oops_2\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalartThenDeptwiseComparer.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\SalartThenDeptwiseComparer.cs",
+              "RelativeDocumentMoniker": "OOPS_2\\SalartThenDeptwiseComparer.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\SalartThenDeptwiseComparer.cs",
+              "RelativeToolTip": "OOPS_2\\SalartThenDeptwiseComparer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:08:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeptwiseComparer.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\DeptwiseComparer.cs",
+              "RelativeDocumentMoniker": "OOPS_2\\DeptwiseComparer.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\DeptwiseComparer.cs",
+              "RelativeToolTip": "OOPS_2\\DeptwiseComparer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:06:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\Emp.cs",
+              "RelativeDocumentMoniker": "OOPS_2\\Emp.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\Emp.cs",
+              "RelativeToolTip": "OOPS_2\\Emp.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvwAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:06:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS_2\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\OOPS_2\\OOPS_2\\Program.cs",
+              "RelativeToolTip": "OOPS_2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:05:51.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

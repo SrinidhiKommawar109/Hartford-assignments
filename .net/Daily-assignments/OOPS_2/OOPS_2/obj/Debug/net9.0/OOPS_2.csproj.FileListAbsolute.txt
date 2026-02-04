@@ -1,0 +1,15 @@
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.AssemblyInfoInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.AssemblyInfo.cs
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.csproj.CoreCompileInputs.cache
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.sourcelink.json
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\bin\Debug\net9.0\OOPS_2.exe
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\bin\Debug\net9.0\OOPS_2.deps.json
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\bin\Debug\net9.0\OOPS_2.runtimeconfig.json
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\bin\Debug\net9.0\OOPS_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\bin\Debug\net9.0\OOPS_2.pdb
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\refint\OOPS_2.dll
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.pdb
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\OOPS_2.genruntimeconfig.cache
+E:\Hartford_assignments\.net\Daily-assignments\OOPS_2\OOPS_2\obj\Debug\net9.0\ref\OOPS_2.dll

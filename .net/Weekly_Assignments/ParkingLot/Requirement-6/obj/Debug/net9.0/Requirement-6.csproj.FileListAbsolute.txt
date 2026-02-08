@@ -1,0 +1,15 @@
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\bin\Debug\net9.0\Requirement-6.exe
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\bin\Debug\net9.0\Requirement-6.deps.json
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\bin\Debug\net9.0\Requirement-6.runtimeconfig.json
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\bin\Debug\net9.0\Requirement-6.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\bin\Debug\net9.0\Requirement-6.pdb
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.AssemblyInfoInputs.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.AssemblyInfo.cs
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.csproj.CoreCompileInputs.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.sourcelink.json
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\refint\Requirement-6.dll
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.pdb
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\Requirement-6.genruntimeconfig.cache
+E:\Hartford_assignments\.net\Weekly_Assignments\ParkingLot\Requirement-6\obj\Debug\net9.0\ref\Requirement-6.dll

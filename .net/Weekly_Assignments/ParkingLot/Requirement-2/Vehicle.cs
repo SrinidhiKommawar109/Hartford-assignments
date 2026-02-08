@@ -42,8 +42,10 @@ namespace Requirement_2
             get { return _ticket; }
             set { _ticket = value; }
         }
-
+        //Default Constructor
         public Vehicle() { }
+
+        //Parametrized Constructor
         public Vehicle(string registrationNo, string name, string type, double weight, Ticket ticket)
         {
             _registrationNo = registrationNo;
@@ -52,7 +54,7 @@ namespace Requirement_2
             _weight = weight;
             _ticket = ticket;
         }
-
+        
         public static Vehicle CreateVehicle(string detail)
         {
             string[] data = detail.Split(',');

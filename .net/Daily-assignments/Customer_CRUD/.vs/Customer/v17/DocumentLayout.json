@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Customer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6107264C-3661-45C4-A82C-43CF74B84BA5}|CustomerAPI\\CustomerAPI.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\customer\\customerapi\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6107264C-3661-45C4-A82C-43CF74B84BA5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6107264C-3661-45C4-A82C-43CF74B84BA5}|CustomerAPI\\CustomerAPI.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\customer\\customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6107264C-3661-45C4-A82C-43CF74B84BA5}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMSController.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Customer\\CustomerAPI\\Controllers\\CMSController.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CMSController.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Customer\\CustomerAPI\\Controllers\\CMSController.cs",
+              "RelativeToolTip": "CustomerAPI\\Controllers\\CMSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:47:22.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Customer\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\Customer.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Customer\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:39:53.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

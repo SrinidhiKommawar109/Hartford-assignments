@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Forms_3_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_3_02\\Forms_3_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_3_02\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Forms_3_02\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Forms_3_02.csproj",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Forms_3_02.csproj",
+              "RelativeDocumentMoniker": "Forms_3_02\\Forms_3_02.csproj",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Forms_3_02.csproj",
+              "RelativeToolTip": "Forms_3_02\\Forms_3_02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T18:28:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Forms_3_02\\Form1.Designer.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.Designer.cs",
+              "RelativeToolTip": "Forms_3_02\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:28:03.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.cs",
               "RelativeDocumentMoniker": "Forms_3_02\\Form1.cs",
               "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Forms_3_02\\Forms_3_02\\Form1.cs",
               "RelativeToolTip": "Forms_3_02\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T16:38:49.574Z",
               "EditorCaption": ""

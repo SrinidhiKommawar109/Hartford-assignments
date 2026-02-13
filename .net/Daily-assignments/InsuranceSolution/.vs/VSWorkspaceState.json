@@ -6,6 +6,6 @@
     "\\InsuranceLibrary\\Models",
     "\\InsuranceLibrary\\Services"
   ],
-  "SelectedNode": "\\InsuranceLibrary\\Services\\PolicyService.cs",
+  "SelectedNode": "\\InsuranceLibrary\\Models\\InsurancePolicy.cs",
   "PreviewInSolutionExplorer": false
 }

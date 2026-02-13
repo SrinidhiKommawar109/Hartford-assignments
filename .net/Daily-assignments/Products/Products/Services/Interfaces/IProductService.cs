@@ -4,11 +4,14 @@ namespace Products.Services.Interfaces
 {
     public interface IProductService
     {
-        Task<IEnumerable<ProductDto>> GetAllProductsAsync();
-        Task<ProductDto> GetProductByIdAsync(int id);
-        Task<ProductDto> CreateProductAsync(CreateProductDto productDto);
+        List<ProductDto> GetAllProducts();
 
-        Task<bool> UpdateProductAsync(int id, UpdateProductDto productDto);
-        Task<bool> DeleteProductAsync(int id);
+        ProductDto GetProductById(int id);
+
+        void AddProduct(ProductDto productDto);
+
+        void UpdateProduct(int id, ProductDto productDto);
+
+        void DeleteProduct(int id);
     }
 }

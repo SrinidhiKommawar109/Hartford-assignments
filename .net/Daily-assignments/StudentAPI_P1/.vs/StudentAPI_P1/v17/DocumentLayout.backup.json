@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\studentapi_p1\\studentapi_p1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|solutionrelative:studentapi_p1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\studentapi_p1\\studentapi_p1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|solutionrelative:studentapi_p1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\studentapi_p1\\studentapi_p1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|solutionrelative:studentapi_p1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\studentapi_p1\\studentapi_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5621D841-5FC2-4DB3-9821-E3491CCF4EF0}|StudentAPI_P1\\StudentAPI_P1.csproj|solutionrelative:studentapi_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI_P1\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "StudentAPI_P1\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:30:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI_P1\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Program.cs",
+              "RelativeToolTip": "StudentAPI_P1\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:26:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI_P1\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentAPI_P1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:19:06.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI_P1\\Models\\Student.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\StudentAPI_P1\\StudentAPI_P1\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAPI_P1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:15:26.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

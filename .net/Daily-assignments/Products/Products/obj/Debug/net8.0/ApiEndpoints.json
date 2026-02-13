@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ProductManagementAPI.Controllers.ProductsController",
+    "ContainingType": "Products.Controllers.ProductsController",
     "Method": "GetAll",
     "RelativePath": "api/products",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductManagementAPI.Controllers.ProductsController",
+    "ContainingType": "Products.Controllers.ProductsController",
     "Method": "Create",
     "RelativePath": "api/products",
     "HttpMethod": "POST",
@@ -19,14 +19,14 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "Products.DTOs.CreateProductDto",
+        "Type": "Products.DTOs.ProductDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductManagementAPI.Controllers.ProductsController",
+    "ContainingType": "Products.Controllers.ProductsController",
     "Method": "Get",
     "RelativePath": "api/products/{id}",
     "HttpMethod": "GET",
@@ -42,7 +42,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductManagementAPI.Controllers.ProductsController",
+    "ContainingType": "Products.Controllers.ProductsController",
     "Method": "Update",
     "RelativePath": "api/products/{id}",
     "HttpMethod": "PUT",
@@ -56,15 +56,15 @@
       },
       {
         "Name": "dto",
-        "Type": "Products.DTOs.UpdateProductDto",
+        "Type": "Products.DTOs.ProductDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProductManagementAPI.Controllers.ProductsController",
-    "Method": "Delete",
+    "ContainingType": "Products.Controllers.ProductsController",
+    "Method": "DeleteProduct",
     "RelativePath": "api/products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,

@@ -1,79 +1,64 @@
 ﻿using Products.DTOs;
 using Products.Models;
 using Products.Services.Interfaces;
-namespace ProductManagementAPI.Services.Implementations
+
+namespace Products.Services.Implementations
 {
     public class ProductService : IProductService
     {
-        private static List<Product> _products = new List<Product>();
-
-        public async Task<IEnumerable<ProductDto>> GetAllProductsAsync()
+        private static List<Product> products = new List<Product>
         {
-            return await Task.FromResult(
-                _products.Select(p => new ProductDto
-                {
-                    Id = p.Id,
-                    Name = p.Name,
-                    Price = p.Price
-                })
-            );
+            new Product{Id = 1, Name = "Laptop" , Price = 50000,Quantity = 10},
+            new Product{Id = 2, Name = "Phone",Price = 25000 , Quantity = 10},
+        };
+        public List<ProductDto> GetAllProducts()
+        {
+            return products.Select(p => new ProductDto
+            {
+                Id = p.Id,
+                Name = p.Name,
+                Price = p.Price,
+            }).ToList();
         }
 
-        public async Task<ProductDto> GetProductByIdAsync(int id)
+        public ProductDto GetProductById(int id)
         {
-            var product = _products.FirstOrDefault(x => x.Id == id);
+            var product = products.FirstOrDefault(p => p.Id == id);
+            if (product == null)
+                return null;
 
-            if (product == null) return null;
-
-            return await Task.FromResult(new ProductDto
+            return new ProductDto
             {
                 Id = product.Id,
                 Name = product.Name,
                 Price = product.Price
-            });
-        }
-
-        public async Task<ProductDto> CreateProductAsync(CreateProductDto dto)
-        {
-            var product = new Product
-            {
-                Id = _products.Count + 1,
-                Name = dto.Name,
-                Price = dto.Price,
-                Category = dto.Category,
-                IsAvailable = true
             };
+        }
 
-            _products.Add(product);
-
-            return await Task.FromResult(new ProductDto
+        public void AddProduct(ProductDto productDto)
+        {
+            var newProduct = new Product
             {
-                Id = product.Id,
-                Name = product.Name,
-                Price = product.Price
-            });
+                Id = products.Max(p => p.Id) + 1,
+                Name = productDto.Name,
+                Price = productDto.Price,
+                Quantity = 0
+            };
+            products.Add(newProduct);
+        }
+        public void UpdateProduct(int id, ProductDto productDto)
+        {
+            var product = products.FirstOrDefault(p => p.Id == id);
+            if (product == null) return;
+            product.Price = productDto.Price;
+            product.Name = productDto.Name;
         }
 
-        public async Task<bool> UpdateProductAsync(int id, UpdateProductDto dto)
+        public void DeleteProduct(int id)
         {
-            var product = _products.FirstOrDefault(x => x.Id == id);
-
-            if (product == null) return false;
-
-            product.Name = dto.Name;
-            product.Price = dto.Price;
-
-            return await Task.FromResult(true);
-        }
-
-        public async Task<bool> DeleteProductAsync(int id)
-        {
-            var product = _products.FirstOrDefault(x => x.Id == id);
-
-            if (product == null) return false;
-
-            _products.Remove(product);
-            return await Task.FromResult(true);
+            var product = products.FirstOrDefault(p => p.Id == id);
+            if(product != null)
+                products.Remove(product);
         }
     }
 }

@@ -18,7 +18,6 @@ E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\Products.csproj.CoreCompileInputs.cache
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\Products.MvcApplicationPartsAssemblyInfo.cs
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\Products.MvcApplicationPartsAssemblyInfo.cache
-E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\Products.sourcelink.json
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 E:\Hartford_assignments\.net\Daily-assignments\Products\Products\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

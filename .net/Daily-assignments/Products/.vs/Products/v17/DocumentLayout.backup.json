@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\products\\products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3187C9-68E5-47EF-AFD6-233044A498E5}|Products\\Products.csproj|solutionrelative:products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 587,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Program.cs",
-              "RelativeDocumentMoniker": "Products\\Program.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Program.cs",
-              "RelativeToolTip": "Products\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:50:35.037Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -75,94 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Products\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Products\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:49:44.473Z",
+              "WhenOpened": "2026-02-12T17:18:52.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "Products\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Services\\Implementations\\ProductService.cs*",
-              "RelativeToolTip": "Products\\Services\\Implementations\\ProductService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Program.cs",
+              "RelativeDocumentMoniker": "Products\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Program.cs",
+              "RelativeToolTip": "Products\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:37:55.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Products\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Products\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:37:06.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Products\\DTOs\\UpdateProductDto.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\UpdateProductDto.cs",
-              "RelativeToolTip": "Products\\DTOs\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:34:44.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Products\\DTOs\\CreateProductDto.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\CreateProductDto.cs",
-              "RelativeToolTip": "Products\\DTOs\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:32:48.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Products\\DTOs\\ProductDto.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "Products\\DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:30:21.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Products\\Models\\Product.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\Products\\Products\\Models\\Product.cs",
-              "RelativeToolTip": "Products\\Models\\Product.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T16:26:16.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T17:08:30.507Z"
             }
           ]
         }

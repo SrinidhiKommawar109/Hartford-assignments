@@ -17,48 +17,39 @@ namespace Products.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public IActionResult GetAll()
         {
-            var products = await _service.GetAllProductsAsync();
+            var products = _service.GetAllProducts();
             return Ok(products);
         }
-
         [HttpGet("{id}")]
-        public async Task<IActionResult> Get(int id)
+        public IActionResult Get(int id)
         {
-            var product = await _service.GetProductByIdAsync(id);
-
-            if (product == null)
+            var product = _service.GetProductById(id);
+            if(product == null)
                 return NotFound();
-
             return Ok(product);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CreateProductDto dto)
+        public IActionResult Create(ProductDto dto)
         {
-            var product = await _service.CreateProductAsync(dto);
-            return Ok(product);
+            _service.AddProduct(dto);
+            return Ok("Product created");
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, UpdateProductDto dto)
+        public IActionResult Update(int id, ProductDto dto)
         {
-            var result = await _service.UpdateProductAsync(id, dto);
-
-            if (!result) return NotFound();
-
-            return NoContent();
+            _service.UpdateProduct(id, dto);
+            return Ok("product updated");
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
+        public IActionResult DeleteProduct(int id)
         {
-            var result = await _service.DeleteProductAsync(id);
-
-            if (!result) return NotFound();
-
-            return NoContent();
+            _service.DeleteProduct(id);
+            return Ok("Product Deleted");
         }
     }
 }

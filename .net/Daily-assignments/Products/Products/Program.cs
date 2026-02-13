@@ -1,5 +1,5 @@
 
-using ProductManagementAPI.Services.Implementations;
+using Products.Services.Implementations;
 using Products.Services.Interfaces;
 
 namespace Products

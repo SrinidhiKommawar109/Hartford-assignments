@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Models\\InsurancePolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceLibrary\\Models\\InsurancePolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22E820E3-0666-46AD-B516-A7A33C2A762B}|InsuranceLibrary\\InsuranceLibrary.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\insurancesolution\\insurancelibrary\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E820E3-0666-46AD-B516-A7A33C2A762B}|InsuranceLibrary\\InsuranceLibrary.csproj|solutionrelative:insurancelibrary\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22E820E3-0666-46AD-B516-A7A33C2A762B}|InsuranceLibrary\\InsuranceLibrary.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\insurancesolution\\insurancelibrary\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E820E3-0666-46AD-B516-A7A33C2A762B}|InsuranceLibrary\\InsuranceLibrary.csproj|solutionrelative:insurancelibrary\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Services\\PolicyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceLibrary\\Services\\PolicyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C50810E1-B539-47DD-928A-4ED0ACB6FB23}|InsuranceConsoleApp\\InsuranceConsoleApp.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\insurancesolution\\insuranceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50810E1-B539-47DD-928A-4ED0ACB6FB23}|InsuranceConsoleApp\\InsuranceConsoleApp.csproj|solutionrelative:insuranceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 587,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,44 +37,38 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Services\\PolicyService.cs",
+              "RelativeDocumentMoniker": "InsuranceLibrary\\Services\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Services\\PolicyService.cs",
+              "RelativeToolTip": "InsuranceLibrary\\Services\\PolicyService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:11:55.919Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PolicyService.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Services\\PolicyService.cs",
-              "RelativeDocumentMoniker": "InsuranceLibrary\\Services\\PolicyService.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Services\\PolicyService.cs",
-              "RelativeToolTip": "InsuranceLibrary\\Services\\PolicyService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T16:11:55.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "InsuranceConsoleApp\\Program.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceConsoleApp\\Program.cs",
               "RelativeToolTip": "InsuranceConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T12:17:22.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T12:17:22.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InsurancePolicy.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Models\\InsurancePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Models\\InsurancePolicy.cs",
               "RelativeDocumentMoniker": "InsuranceLibrary\\Models\\InsurancePolicy.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Models\\InsurancePolicy.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceSolution\\InsuranceLibrary\\Models\\InsurancePolicy.cs",
               "RelativeToolTip": "InsuranceLibrary\\Models\\InsurancePolicy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T12:00:18.683Z",
               "EditorCaption": ""

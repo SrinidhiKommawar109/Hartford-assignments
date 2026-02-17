@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qASoAzC1/zE=",
+  "dgSpecHash": "e+FkYZXn1H8=",
   "success": true,
-  "projectFilePath": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
+  "projectFilePath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srini\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\srini\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

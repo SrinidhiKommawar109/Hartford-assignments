@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Hartford_assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\ProductRepo.csproj",
+      "projectUniqueName": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\ProductRepo.csproj",
       "projectName": "ProductRepo",
-      "projectPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\ProductRepo.csproj",
+      "projectPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\ProductRepo.csproj",
       "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
-      "outputPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\obj\\",
+      "outputPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\ProductRepo\\ProductRepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

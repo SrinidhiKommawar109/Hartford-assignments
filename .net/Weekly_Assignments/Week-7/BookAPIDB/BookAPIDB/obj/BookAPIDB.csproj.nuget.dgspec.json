@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj": {}
+    "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj": {}
   },
   "projects": {
-    "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj": {
+    "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
+        "projectUniqueName": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
         "projectName": "BookAPIDB",
-        "projectPath": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
+        "projectPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\BookAPIDB.csproj",
         "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
-        "outputPath": "E:\\Hartford_assignments\\.net\\Weekly_Assignments\\BookAPIDB\\BookAPIDB\\obj\\",
+        "outputPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\Week-7\\BookAPIDB\\BookAPIDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\basicauthentication\\basicauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\basicauthentication\\basicauthentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\basicauthentication\\basicauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3E50E2-EAB1-4DDA-A12A-5D15BF0DF28B}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BasicAuthentication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:06:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Program.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Program.cs",
+              "RelativeToolTip": "BasicAuthentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:04:45.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\BasicAuthentication\\BasicAuthentication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BasicAuthentication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:03:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

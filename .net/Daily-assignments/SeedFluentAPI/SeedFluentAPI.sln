@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedFluentAPI", "SeedFluentAPI\SeedFluentAPI.csproj", "{52CB25C2-0CA4-41C1-9A6C-82EC3610F167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CB25C2-0CA4-41C1-9A6C-82EC3610F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CB25C2-0CA4-41C1-9A6C-82EC3610F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CB25C2-0CA4-41C1-9A6C-82EC3610F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CB25C2-0CA4-41C1-9A6C-82EC3610F167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DB80994-3CD6-4973-BCE4-6B4201811664}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@InsuranceTypes_HostAddress = http://localhost:5036
+
+GET {{InsuranceTypes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

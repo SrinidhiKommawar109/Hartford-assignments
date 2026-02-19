@@ -1,0 +1,143 @@
+<div class="flex min-h-screen bg-gray-100">
+
+  <!-- SIDEBAR -->
+  <div class="w-64 bg-indigo-700 text-white p-6 space-y-6 shadow-lg">
+
+    <h1 class="text-2xl font-bold text-center">Insurance</h1>
+
+    <div class="space-y-3">
+      <button
+        (click)="active='list'"
+        class="w-full py-2 rounded-lg bg-indigo-500 hover:bg-indigo-600 transition"
+      >
+        Data
+      </button>
+
+      <button
+        (click)="active='add'"
+        class="w-full py-2 rounded-lg bg-green-500 hover:bg-green-600 transition"
+      >
+        Add Insurance
+      </button>
+
+      <button
+        (click)="active='delete'"
+        class="w-full py-2 rounded-lg bg-red-500 hover:bg-red-600 transition"
+      >
+        Delete
+      </button>
+    </div>
+
+  </div>
+
+  <!-- CONTENT -->
+  <div class="flex-1 p-10">
+
+    <!-- LIST -->
+    @if (active === 'list') {
+      <h1 class="text-3xl font-bold mb-6 text-gray-700">
+        Insurance Types
+      </h1>
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+        @for (p of policies(); track p.id) {
+          <div class="bg-white p-6 rounded-xl shadow hover:shadow-lg transition">
+
+            <h3 class="text-xl font-semibold text-gray-800">
+              {{ p.name }}
+            </h3>
+
+            <p class="text-gray-500 mt-2">
+              {{ p.description }}
+            </p>
+
+            <div class="mt-4">
+              <span
+                class="px-3 py-1 text-sm rounded-full"
+                [ngClass]="p.isActive
+                  ? 'bg-green-100 text-green-700'
+                  : 'bg-red-100 text-red-700'"
+              >
+                {{ p.isActive ? 'Active' : 'Inactive' }}
+              </span>
+            </div>
+
+          </div>
+        }
+
+      </div>
+    }
+
+    <!-- ADD -->
+    @if (active === 'add') {
+      <div class="max-w-md bg-white p-8 rounded-xl shadow">
+        <h2 class="text-2xl font-bold mb-6 text-gray-700">
+          Add Insurance
+        </h2>
+
+        <div class="space-y-4">
+
+          <input
+            placeholder="Insurance Name"
+            [(ngModel)]="form.name"
+            class="w-full border p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          >
+
+          <input
+            placeholder="Description"
+            [(ngModel)]="form.description"
+            class="w-full border p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
+          >
+
+          <label class="flex items-center gap-3">
+            <input
+              type="checkbox"
+              [(ngModel)]="form.isActive"
+              class="w-5 h-5"
+            >
+            <span class="text-gray-600">Is Active</span>
+          </label>
+
+          <button
+            (click)="add()"
+            class="w-full py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition"
+          >
+            Save
+          </button>
+
+        </div>
+      </div>
+    }
+
+    <!-- DELETE -->
+    @if (active === 'delete') {
+      <h2 class="text-2xl font-bold mb-6 text-gray-700">
+        Delete Insurance
+      </h2>
+
+      <div class="space-y-3 max-w-md">
+
+        @for (p of policies(); track p.id) {
+          <div class="flex justify-between items-center bg-white p-4 rounded-lg shadow">
+
+            <span class="font-medium text-gray-700">
+              {{ p.name }}
+            </span>
+
+            <button
+              class="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition"
+              (click)="delete(p.id!)"
+            >
+              Delete
+            </button>
+
+          </div>
+        }
+
+      </div>
+    }
+
+  </div>
+
+</div>

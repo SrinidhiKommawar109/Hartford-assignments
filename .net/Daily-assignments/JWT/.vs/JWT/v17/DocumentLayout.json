@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\",
+  "WorkspaceRootPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|e:\\hartford_assignments\\.net\\daily-assignments\\jwt\\jwt\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\jwt\\jwt\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7514C3-C086-41E6-AFA2-450AB56EBA7F}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 587,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\appsettings.json",
-              "RelativeDocumentMoniker": "JWT\\appsettings.json",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\appsettings.json",
-              "RelativeToolTip": "JWT\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-17T11:44:42.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Program.cs",
-              "RelativeDocumentMoniker": "JWT\\Program.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Program.cs",
-              "RelativeToolTip": "JWT\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwBUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T11:27:10.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "JWT\\Controllers\\ValuesController.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "JWT\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T11:35:27.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "JWT\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Hartford_assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "JWT\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwBYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T11:33:38.911Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -91,6 +39,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:33:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:35:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Program.cs",
+              "RelativeDocumentMoniker": "JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\Program.cs",
+              "RelativeToolTip": "JWT\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:27:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\JWT\\JWT\\appsettings.json",
+              "RelativeToolTip": "JWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T11:44:42.759Z",
+              "EditorCaption": ""
             }
           ]
         }

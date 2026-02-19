@@ -1,15 +1,14 @@
-﻿
-using JWT.Models;
+﻿using JWT.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace JwtAuthenticationDemo.Controllers
+namespace JWT.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
         private readonly JwtSettings _jwtsettings;
@@ -31,8 +30,7 @@ namespace JwtAuthenticationDemo.Controllers
             var key = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes(_jwtsettings.SecretKey));
 
-            var creds = new SigningCredentials(
-                key, SecurityAlgorithms.HmacSha256);
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
                 issuer: _jwtsettings.Issuer,

@@ -1,17 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace JwtAuthenticationDemo.Controllers
+namespace JWT.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class ValuesController : ControllerBase
     {
         [HttpGet]
         [Authorize]
         public IActionResult Get()
         {
-            return Ok(new { value = "This is a protected view" });
+            return Ok("Token is valid — protected data");
         }
     }
 }

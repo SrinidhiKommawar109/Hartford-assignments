@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A67606F-9E8A-4E60-B9E1-C9DBB97FFD24}|InsuranceTypes\\InsuranceTypes.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\insurancetypes\\insurancetypes\\models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A67606F-9E8A-4E60-B9E1-C9DBB97FFD24}|InsuranceTypes\\InsuranceTypes.csproj|solutionrelative:insurancetypes\\models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A67606F-9E8A-4E60-B9E1-C9DBB97FFD24}|InsuranceTypes\\InsuranceTypes.csproj|c:\\users\\srini\\desktop\\hartford-assignments\\.net\\daily-assignments\\insurancetypes\\insurancetypes\\controllers\\insurancetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A67606F-9E8A-4E60-B9E1-C9DBB97FFD24}|InsuranceTypes\\InsuranceTypes.csproj|solutionrelative:insurancetypes\\controllers\\insurancetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 587,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260219152431_InitalCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs",
+              "RelativeDocumentMoniker": "InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs",
+              "RelativeToolTip": "InsuranceTypes\\Migrations\\20260219152431_InitalCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:24:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260219152416_InitalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs",
+              "RelativeDocumentMoniker": "InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs",
+              "RelativeToolTip": "InsuranceTypes\\Migrations\\20260219152416_InitalCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:24:16.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsuranceType.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Models\\InsuranceType.cs",
+              "RelativeDocumentMoniker": "InsuranceTypes\\Models\\InsuranceType.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Models\\InsuranceType.cs",
+              "RelativeToolTip": "InsuranceTypes\\Models\\InsuranceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:30:00.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Controllers\\InsuranceTypesController.cs",
+              "RelativeDocumentMoniker": "InsuranceTypes\\Controllers\\InsuranceTypesController.cs",
+              "ToolTip": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Daily-assignments\\InsuranceTypes\\InsuranceTypes\\Controllers\\InsuranceTypesController.cs",
+              "RelativeToolTip": "InsuranceTypes\\Controllers\\InsuranceTypesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:40:41.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

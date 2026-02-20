@@ -1,11 +1,11 @@
-import { Component, inject, signal, Injectable } from '@angular/core';
+import { Component, Injectable } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 
-// ✅ MUST MATCH .NET MODEL EXACTLY
+// ✅ Model
 export interface InsuranceType {
   id?: number;
   name: string;
@@ -14,7 +14,7 @@ export interface InsuranceType {
 }
 
 
-// ✅ Service inside same file
+// ✅ Service
 @Injectable({
   providedIn: 'root'
 })
@@ -48,11 +48,12 @@ export class PolicyService {
 })
 export class App {
 
-  private service = inject(PolicyService);
+  constructor(private service: PolicyService) {}
 
   active = 'list';
 
-  policies = signal<InsuranceType[]>([]);
+  // ✅ array instead of signal
+  policies: InsuranceType[] = [];
 
   // form model
   form: InsuranceType = {
@@ -69,7 +70,7 @@ export class App {
     this.service.getAll().subscribe({
       next: data => {
         console.log("API Response:", data);
-        this.policies.set(data);
+        this.policies = data;  
       },
       error: err => console.error("API ERROR:", err)
     });

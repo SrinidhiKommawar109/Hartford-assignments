@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+/* Global resets */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+}
+
+/* ============================================================
+   Sidebar → Top Navbar  (CSS-only, no HTML/file changes)
+   Using the app-sidebar element selector so it works globally
+   without Angular's ViewEncapsulation blocking it.
+   ============================================================ */
+
+/* Outer wrapper: stack vertically so nav sits on top */
+app-sidebar>div {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100vh;
+    background-color: #f1f5f9;
+}
+
+/* <aside>: horizontal top nav bar */
+app-sidebar aside {
+    width: 100% !important;
+    height: 52px !important;
+    min-height: 52px !important;
+    max-height: 52px !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    padding: 0 1.25rem !important;
+    background: #1e3a5f !important;
+    background-image: none !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+    flex-shrink: 0 !important;
+    overflow: hidden;
+}
+
+/* Brand/logo block: right divider */
+app-sidebar aside>div:first-child {
+    padding: 0 1rem 0 0 !important;
+    border-bottom: none !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.2) !important;
+    margin-right: 0.75rem !important;
+    white-space: nowrap;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* User info block: right divider */
+app-sidebar aside>div:nth-child(2) {
+    padding: 0 0.75rem !important;
+    border-bottom: none !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.2) !important;
+    margin-right: 0.25rem !important;
+    white-space: nowrap;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* Nav: horizontal row */
+app-sidebar aside nav {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    padding: 0 0.25rem !important;
+    gap: 0.15rem !important;
+    flex: 1 !important;
+    height: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+/* Each nav link: compact horizontal pill */
+app-sidebar aside nav a {
+    display: inline-flex !important;
+    align-items: center !important;
+    padding: 0.35rem 0.9rem !important;
+    gap: 0 !important;
+    border-radius: 5px !important;
+    font-size: 0.8rem !important;
+    white-space: nowrap !important;
+    line-height: 1 !important;
+}
+
+/* Hide SVG icons to keep the bar slim */
+app-sidebar aside nav a svg {
+    display: none !important;
+}
+
+/* Logout block: push to the far right */
+app-sidebar aside>div:last-child {
+    margin-left: auto !important;
+    padding: 0 !important;
+    border-top: none !important;
+    flex-shrink: 0;
+}
+
+app-sidebar aside>div:last-child button {
+    width: auto !important;
+    padding: 0.35rem 0.9rem !important;
+    border-radius: 5px !important;
+    font-size: 0.8rem !important;
+    gap: 0 !important;
+    white-space: nowrap;
+}
+
+/* Hide logout icon */
+app-sidebar aside>div:last-child button svg {
+    display: none !important;
+}
+
+/* <main>: fill remaining vertical space */
+app-sidebar main {
+    flex: 1 !important;
+    overflow-y: auto !important;
+    background-color: #f1f5f9 !important;
+    padding: 1.5rem !important;
+}

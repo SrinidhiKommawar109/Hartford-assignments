@@ -1,7 +1,7 @@
 import { Component, Injectable } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
-import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 
@@ -44,7 +44,7 @@ export class PolicyService {
   standalone: true,
   templateUrl: './app.html',
   styleUrl: './app.css',
-  imports: [CommonModule, FormsModule, HttpClientModule]
+  imports: [CommonModule, FormsModule]
 })
 export class App {
 

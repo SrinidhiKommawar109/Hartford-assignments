@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ActivityTracking.API.Controllers.ActivityController",
+    "Method": "AddEnergy",
+    "RelativePath": "api/Activity/energy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ActivityTracking.Application.DTOs.EnergyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActivityTracking.API.Controllers.ActivityController",
+    "Method": "AddTransport",
+    "RelativePath": "api/Activity/transport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ActivityTracking.Application.DTOs.TransportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ActivityTracking.API.Controllers.ActivityController",
+    "Method": "AddWaste",
+    "RelativePath": "api/Activity/waste",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ActivityTracking.Application.DTOs.WasteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

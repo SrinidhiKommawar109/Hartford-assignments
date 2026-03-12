@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sVWWfb/Wt+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\srini\\Desktop\\Hartford-assignments\\.net\\Weekly_Assignments\\CarbonFootprintTracker\\CarbonCalculation.Infrastructure\\CarbonCalculation.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srini\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.4\\microsoft.extensions.configuration.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\srini\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

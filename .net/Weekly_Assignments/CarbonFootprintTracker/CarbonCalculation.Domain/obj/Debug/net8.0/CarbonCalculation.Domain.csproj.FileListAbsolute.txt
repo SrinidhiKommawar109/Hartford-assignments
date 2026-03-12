@@ -1,0 +1,12 @@
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\bin\Debug\net8.0\CarbonCalculation.Domain.deps.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\bin\Debug\net8.0\CarbonCalculation.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\bin\Debug\net8.0\CarbonCalculation.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.AssemblyInfoInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.AssemblyInfo.cs
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.sourcelink.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\refint\CarbonCalculation.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\CarbonCalculation.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Domain\obj\Debug\net8.0\ref\CarbonCalculation.Domain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ActivityTracking.Application/1.0.0": {
+        "dependencies": {
+          "ActivityTracking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ActivityTracking.Application.dll": {}
+        }
+      },
+      "ActivityTracking.Domain/1.0.0": {
+        "runtime": {
+          "ActivityTracking.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActivityTracking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ActivityTracking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\bin\Debug\net8.0\CarbonCalculation.Infrastructure.deps.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\bin\Debug\net8.0\CarbonCalculation.Infrastructure.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\bin\Debug\net8.0\CarbonCalculation.Infrastructure.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.AssemblyInfo.cs
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.sourcelink.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\refint\CarbonCalculation.Infrastructure.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\ref\CarbonCalculation.Infrastructure.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\bin\Debug\net8.0\CarbonCalculation.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\bin\Debug\net8.0\CarbonCalculation.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCalculation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\CarbonCalculation.Infrastructure\obj\Debug\net8.0\CarbonCa.8F2430FB.Up2Date

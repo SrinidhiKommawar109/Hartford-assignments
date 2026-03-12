@@ -1,0 +1,16 @@
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.AssemblyInfoInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.AssemblyInfo.cs
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.sourcelink.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\bin\Debug\net8.0\ActivityTracking.Application.deps.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\bin\Debug\net8.0\ActivityTracking.Application.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\bin\Debug\net8.0\ActivityTracking.Application.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\bin\Debug\net8.0\ActivityTracking.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\bin\Debug\net8.0\ActivityTracking.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.csproj.AssemblyReference.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\Activity.BE5784D1.Up2Date
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\refint\ActivityTracking.Application.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ActivityTracking.Application.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Application\obj\Debug\net8.0\ref\ActivityTracking.Application.dll

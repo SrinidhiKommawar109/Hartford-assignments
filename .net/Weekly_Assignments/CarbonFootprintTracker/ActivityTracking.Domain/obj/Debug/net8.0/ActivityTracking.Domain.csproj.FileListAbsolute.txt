@@ -1,0 +1,12 @@
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.AssemblyInfo.cs
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.sourcelink.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\bin\Debug\net8.0\ActivityTracking.Domain.deps.json
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\bin\Debug\net8.0\ActivityTracking.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\bin\Debug\net8.0\ActivityTracking.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\refint\ActivityTracking.Domain.dll
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ActivityTracking.Domain.pdb
+C:\Users\srini\Desktop\Hartford-assignments\.net\Weekly_Assignments\CarbonFootprintTracker\ActivityTracking.Domain\obj\Debug\net8.0\ref\ActivityTracking.Domain.dll

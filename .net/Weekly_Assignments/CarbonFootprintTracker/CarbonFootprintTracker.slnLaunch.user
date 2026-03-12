@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Authentication.API\\Authentication.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ActivityTracking.API\\ActivityTracking.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CarbonCalculation.API\\CarbonCalculation.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

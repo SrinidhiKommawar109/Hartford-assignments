@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CarbonCalculation.API.Controllers.CarbonController",
+    "Method": "GetMonthly",
+    "RelativePath": "api/Carbon/monthly",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarbonCalculation.API.Controllers.CarbonController",
+    "Method": "GetTotal",
+    "RelativePath": "api/Carbon/total",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

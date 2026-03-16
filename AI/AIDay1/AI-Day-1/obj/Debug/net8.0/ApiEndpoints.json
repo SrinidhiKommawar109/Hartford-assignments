@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "AI_Day_1.Controllers.ClaimsController",
+    "Method": "SubmitClaim",
+    "RelativePath": "api/claims",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AI_Day_1.DTOs.Claim.CreateClaimDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI_Day_1.Controllers.CustomersController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AI_Day_1.DTOs.Customer.CreateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI_Day_1.Controllers.PoliciesController",
+    "Method": "GetPoliciesByCustomer",
+    "RelativePath": "api/customers/{customerId}/policies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI_Day_1.Controllers.PoliciesController",
+    "Method": "CreatePolicy",
+    "RelativePath": "api/policies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AI_Day_1.DTOs.Policy.CreatePolicyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI_Day_1.Controllers.PoliciesController",
+    "Method": "UpdatePolicy",
+    "RelativePath": "api/policies/{policyId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AI_Day_1.DTOs.Policy.UpdatePolicyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
